@@ -5,3 +5,8 @@ Ta repozitorij vsebuje projekt, v katerem analizeram energetske kazalnike v Slov
 Uporabljal bom program *Mathematica*.
 
 ### Načrt projekta: 
+1. Primerjal bom gibanje deleža OVE(obnovljivi viri energije) glede na cilj za leto 2020.
+2. Prikazal podatke z grafom.
+3. Primerjal bom delež energije iz obnovljivih virov(OVE transporta) s cilji za leto 2020. 
+4. Prikazal graf.
+5. Analiziral podatke energetske odvisnosti z grafom. 
