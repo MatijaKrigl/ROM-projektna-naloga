@@ -10,3 +10,7 @@ Uporabljal bom program *Mathematica*.
 3. Primerjal bom delež energije iz obnovljivih virov(OVE transporta) s cilji za leto 2020. 
 4. Prikazal graf.
 5. Analiziral podatke energetske odvisnosti z grafom. 
+6. Izračunal letno količino emisij
+
+### Posnetek: 
+Do posnetke lahko dostopate [tukaj](https://youtu.be/UpVd2obIDBA)
